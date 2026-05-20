@@ -1,3 +1,4 @@
-# template-web
+# Testing Practice (TOP)
 
-Creating a template for future web dev projects
+Using Jest, I will be writing tests for some simple functions, and then making
+the tests pass!
